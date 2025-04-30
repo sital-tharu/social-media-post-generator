@@ -1,0 +1,7 @@
+Flask
+requests
+ollama
+nltk
+pandas
+
+use python main.py to run the code
